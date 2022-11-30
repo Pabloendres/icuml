@@ -1,0 +1,103 @@
+feature,numeric,imputable,missingFlag,enabledToImpute,enabledToFit,parameter,abbr
+Adm. for elec. surgery,0,0,0,1,1,Admission type,AES
+Admission for surgery,0,0,0,1,1,Admission type,AS
+Age,1,1,0,1,1,Age,Age
+Age Miss,0,0,1,0,1,Age,Age Miss
+AIDS,0,0,0,1,1,AIDS,AIDS
+Albumin,1,1,0,1,1,Albumin,ALB
+Albumin Miss,0,0,1,0,1,Albumin,ALB Miss
+Alkaline Phos.,1,1,0,1,1,Alkaline Phos.,ALP
+Alkaline Phos. Miss,0,0,1,0,1,Alkaline Phos.,ALP Miss
+ALT,1,1,0,1,1,ALT,ALT
+ALT Miss,0,0,1,0,1,ALT,ALT Miss
+AST,1,1,0,1,1,AST,AST
+AST Miss,0,0,1,0,1,AST,AST Miss
+Base excess,1,1,0,1,1,Base excess,BE
+Base excess Miss,0,0,1,0,1,Base excess,BE Miss
+Bicarbonate,1,1,0,1,1,Bicarbonate,BIC
+Bicarbonate Miss,0,0,1,0,1,Bicarbonate,BIC Miss
+Bilirubin,1,1,0,1,1,Bilirubin,BR
+Bilirubin Miss,0,0,1,0,1,Bilirubin,BR Miss
+BMI,1,1,0,1,1,BMI,BMI
+BMI Miss,0,0,1,0,1,BMI,BMI Miss
+BNP,1,1,0,0,0,BNP,BNP
+BNP Miss,0,0,1,0,0,BNP,BNP Miss
+BUN,1,1,0,1,1,BUN,BUN
+BUN Miss,0,0,1,0,1,BUN,BUN Miss
+Cancer,0,0,0,1,1,Cancer,Cancer
+Chloride,1,1,0,1,1,Chloride,CHL
+Chloride Miss,0,0,1,0,1,Chloride,CHL Miss
+Creatinine,1,1,0,1,1,Creatinine,CR
+Creatinine Miss,0,0,1,0,1,Creatinine,CR Miss
+CVP,1,1,0,1,1,CVP,CVP
+CVP Miss,0,0,1,0,1,CVP,CVP Miss
+DBP,1,1,0,1,1,DBP,DBP
+DBP Miss,0,0,1,0,1,DBP,DBP Miss
+Dobutamine,1,0,0,1,1,Dobutamine,DOB
+Dopamine,1,0,0,1,1,Dopamine,DOP
+Epinephrine,1,0,0,1,1,Epinephrine,EPI
+Fibrinogen,1,1,0,0,0,Fibrinogen,FIB
+Fibrinogen Miss,0,0,1,0,0,Fibrinogen,FIB Miss
+FIO2,1,1,0,1,1,FIO2,FIO2
+FIO2 Miss,0,0,1,0,1,FIO2,FIO2 Miss
+GCS,1,1,0,1,1,GCS,GCS
+GCS Miss,0,0,1,0,1,GCS,GCS Miss
+Gender,0,0,0,1,1,Gender,Gender
+Glucose,1,1,0,1,1,Glucose,GL
+Glucose Miss,0,0,1,0,1,Glucose,GL Miss
+Heart failure,0,0,0,1,1,Heart failure,HTF
+Heart rate,1,1,0,1,1,Heart rate,HR
+Heart rate Miss,0,0,1,0,1,Heart rate,HR Miss
+Height,1,1,0,1,1,Height,Height
+Height Miss,0,0,1,0,1,Height,Height Miss
+Hematocrit,1,1,0,1,1,Hematocrit,HT
+Hematocrit Miss,0,0,1,0,1,Hematocrit,HT Miss
+Hemoglobin,1,1,0,1,1,Hemoglobin,HGB
+Hemoglobin Miss,0,0,1,0,1,Hemoglobin,HGB Miss
+Hepatic failure,0,0,0,1,1,Hepatic failure,HPF
+Lactate,1,1,0,1,1,Lactate,LD
+Lactate Miss,0,0,1,0,1,Lactate,LD Miss
+LOS preICU,1,0,0,1,1,LOS preICU,LOS pICU
+Lymphocytes,1,1,0,1,1,Lymphocytes,LPH
+Lymphocytes Miss,0,0,1,0,1,Lymphocytes,LPH Miss
+Lymphoma,0,0,0,1,1,Lymphoma,LYMP
+Magnesium,1,1,0,1,1,Magnesium,MG
+Magnesium Miss,0,0,1,0,1,Magnesium,MG Miss
+MAP,1,1,0,1,1,MAP,MAP
+MAP Miss,0,0,1,0,1,MAP,MAP Miss
+Neutrophils,1,1,0,1,1,Neutrophils,NEUT
+Neutrophils Miss,0,0,1,0,1,Neutrophils,NEUT Miss
+Norepinephrine,1,0,0,1,1,Norepinephrine,NORE
+PACO2,1,1,0,1,1,PACO2,PACO2
+PACO2 Miss,0,0,1,0,1,PACO2,PACO2 Miss
+PAO2,1,1,0,1,1,PAO2,PAO2
+PAO2 Miss,0,0,1,0,1,PAO2,PAO2 Miss
+pH,1,1,0,1,1,pH,pH
+pH Miss,0,0,1,0,1,pH,pH Miss
+Platelets,1,1,0,1,1,Platelets,PLT
+Platelets Miss,0,0,1,0,1,Platelets,PLT Miss
+Potassium,1,1,0,1,1,Potassium,SK
+Potassium Miss,0,0,1,0,1,Potassium,SK Miss
+PTT,1,1,0,1,1,PTT,PTT
+PTT Miss,0,0,1,0,1,PTT,PTT Miss
+Radiation,0,0,0,1,1,Radiation,RADS
+Renal failure,0,0,0,1,1,Renal failure,RNF
+Respiratory failure,0,0,0,1,1,Respiratory failure,RPF
+Respiratory rate,1,1,0,1,1,Respiratory rate,RR
+Respiratory rate Miss,0,0,1,0,1,Respiratory rate,RR Miss
+SBP,1,1,0,1,1,SBP,SBP
+SBP Miss,0,0,1,0,1,SBP,SBP Miss
+SIRS,0,0,0,1,1,SIRS,SIRS
+Sodium,1,1,0,1,1,Sodium,SNA
+Sodium Miss,0,0,1,0,1,Sodium,SNA Miss
+SPO2,1,1,0,1,1,SPO2,SPO2
+SPO2 Miss,0,0,1,0,1,SPO2,SPO2 Miss
+Temperature,1,1,0,1,1,Temperature,TEMP
+Temperature Miss,0,0,1,0,1,Temperature,TEMP Miss
+Urine output,1,1,0,1,1,Urine output,UO
+Urine output Miss,0,0,1,0,1,Urine output,UO Miss
+Ventilation,0,0,0,1,1,Ventilation,VENT
+WBC,1,1,0,1,1,WBC,WBC
+WBC Miss,0,0,1,0,1,WBC,WBC Miss
+Weight,1,1,0,1,1,Weight,Weight
+Weight Miss,0,0,1,0,1,Weight,Weight Miss

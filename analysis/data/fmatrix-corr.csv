@@ -1,0 +1,103 @@
+feature,numeric,imputable,missingFlag,enabledToImpute,enabledToFit
+Renal failure,0,0,0,1,1
+ALT,1,1,0,1,0
+Height,1,1,0,1,1
+Fibrinogen,1,1,0,1,1
+Albumin,1,1,0,1,1
+Norepinephrine,1,0,0,1,1
+BNP,1,1,0,1,1
+Respiratory rate,1,1,0,1,1
+Lymphocytes Miss,0,0,1,0,1
+Respiratory failure,0,0,0,1,1
+Hematocrit Miss,0,0,1,0,0
+SPO2,1,1,0,1,1
+Hepatic failure,0,0,0,1,1
+FIO2,1,1,0,1,1
+BUN,1,1,0,1,1
+DBP Miss,0,0,1,0,1
+Lactate,1,1,0,1,1
+Chloride Miss,0,0,1,0,1
+SBP,1,1,0,1,1
+Potassium Miss,0,0,1,0,1
+Admission for surgery,0,0,0,1,1
+Hematocrit,1,1,0,1,0
+BUN Miss,0,0,1,0,1
+Respiratory rate Miss,0,0,1,0,1
+Platelets,1,1,0,1,1
+Fibrinogen Miss,0,0,1,0,1
+Bicarbonate,1,1,0,1,1
+Radiation,0,0,0,1,1
+Adm. for elec. surgery,0,0,0,1,1
+Hemoglobin,1,1,0,1,1
+Age,1,1,0,1,1
+CVP Miss,0,0,1,0,1
+PTT,1,1,0,1,1
+MAP Miss,0,0,1,0,0
+Temperature Miss,0,0,1,0,1
+Dobutamine,1,0,0,1,1
+Base excess,1,1,0,1,0
+CVP,1,1,0,1,1
+Heart rate Miss,0,0,1,0,1
+Lactate Miss,0,0,1,0,1
+Weight,1,1,0,1,1
+Ventilation,0,0,0,1,1
+AIDS,0,0,0,1,1
+Base excess Miss,0,0,1,0,0
+DBP,1,1,0,1,1
+AST Miss,0,0,1,0,1
+Creatinine,1,1,0,1,1
+MAP,1,1,0,1,0
+Temperature,1,1,0,1,1
+Cancer,0,0,0,1,1
+ALT Miss,0,0,1,0,0
+LOS preICU,1,0,0,1,1
+Hemoglobin Miss,0,0,1,0,1
+Sodium,1,1,0,1,1
+PAO2,1,1,0,1,1
+Urine output Miss,0,0,1,0,1
+PTT Miss,0,0,1,0,1
+Bicarbonate Miss,0,0,1,0,1
+Platelets Miss,0,0,1,0,1
+pH Miss,0,0,1,0,1
+SPO2 Miss,0,0,1,0,1
+Creatinine Miss,0,0,1,0,1
+WBC Miss,0,0,1,0,1
+Age Miss,0,0,1,0,1
+PAO2 Miss,0,0,1,0,1
+SIRS,0,0,0,1,1
+WBC,1,1,0,1,1
+Potassium,1,1,0,1,1
+Bilirubin Miss,0,0,1,0,1
+SBP Miss,0,0,1,0,1
+Heart failure,0,0,0,1,1
+BNP Miss,0,0,1,0,1
+Gender,0,0,0,1,1
+Epinephrine,1,0,0,1,1
+Glucose,1,1,0,1,1
+PACO2,1,1,0,1,1
+Weight Miss,0,0,1,0,1
+BMI Miss,0,0,1,0,0
+GCS,1,1,0,1,1
+Bilirubin,1,1,0,1,1
+Glucose Miss,0,0,1,0,1
+FIO2 Miss,0,0,1,0,1
+Urine output,1,1,0,1,1
+AST,1,1,0,1,1
+Lymphoma,0,0,0,1,1
+Alkaline Phos. Miss,0,0,1,0,1
+Heart rate,1,1,0,1,1
+Neutrophils Miss,0,0,1,0,0
+Dopamine,1,0,0,1,1
+BMI,1,1,0,1,0
+Magnesium,1,1,0,1,1
+Alkaline Phos.,1,1,0,1,1
+PACO2 Miss,0,0,1,0,1
+pH,1,1,0,1,1
+GCS Miss,0,0,1,0,1
+Sodium Miss,0,0,1,0,1
+Albumin Miss,0,0,1,0,1
+Height Miss,0,0,1,0,1
+Magnesium Miss,0,0,1,0,1
+Neutrophils,1,1,0,1,0
+Chloride,1,1,0,1,1
+Lymphocytes,1,1,0,1,1

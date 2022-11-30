@@ -1,0 +1,103 @@
+feature,numeric,imputable,missingFlag,enabledToImpute,enabledToFit
+Adm. for elec. surgery,0,0,0,1,1
+Admission for surgery,0,0,0,1,1
+Age,1,1,0,1,1
+Age Miss,0,0,1,0,1
+AIDS,0,0,0,1,0
+Albumin,1,1,0,1,0
+Albumin Miss,0,0,1,0,0
+Alkaline Phos.,1,1,0,1,0
+Alkaline Phos. Miss,0,0,1,0,0
+ALT,1,1,0,1,0
+ALT Miss,0,0,1,0,0
+AST,1,1,0,1,1
+AST Miss,0,0,1,0,1
+Base excess,1,1,0,1,1
+Base excess Miss,0,0,1,0,1
+Bicarbonate,1,1,0,1,0
+Bicarbonate Miss,0,0,1,0,0
+Bilirubin,1,1,0,1,1
+Bilirubin Miss,0,0,1,0,1
+BMI,1,1,0,1,0
+BMI Miss,0,0,1,0,0
+BNP,1,1,0,1,1
+BNP Miss,0,0,1,0,1
+BUN,1,1,0,1,1
+BUN Miss,0,0,1,0,1
+Cancer,0,0,0,1,1
+Chloride,1,1,0,1,0
+Chloride Miss,0,0,1,0,0
+Creatinine,1,1,0,1,0
+Creatinine Miss,0,0,1,0,0
+CVP,1,1,0,1,1
+CVP Miss,0,0,1,0,1
+DBP,1,1,0,1,0
+DBP Miss,0,0,1,0,0
+Dobutamine,1,0,0,1,0
+Dopamine,1,0,0,1,0
+Epinephrine,1,0,0,1,0
+Fibrinogen,1,1,0,1,0
+Fibrinogen Miss,0,0,1,0,0
+FIO2,1,1,0,1,1
+FIO2 Miss,0,0,1,0,1
+GCS,1,1,0,1,1
+GCS Miss,0,0,1,0,1
+Gender,0,0,0,1,0
+Glucose,1,1,0,1,0
+Glucose Miss,0,0,1,0,0
+Heart failure,0,0,0,1,0
+Heart rate,1,1,0,1,0
+Heart rate Miss,0,0,1,0,0
+Height,1,1,0,1,0
+Height Miss,0,0,1,0,0
+Hematocrit,1,1,0,1,0
+Hematocrit Miss,0,0,1,0,0
+Hemoglobin,1,1,0,1,0
+Hemoglobin Miss,0,0,1,0,0
+Hepatic failure,0,0,0,1,0
+Lactate,1,1,0,1,1
+Lactate Miss,0,0,1,0,1
+LOS preICU,1,0,0,1,1
+Lymphocytes,1,1,0,1,0
+Lymphocytes Miss,0,0,1,0,0
+Lymphoma,0,0,0,1,1
+Magnesium,1,1,0,1,0
+Magnesium Miss,0,0,1,0,0
+MAP,1,1,0,1,0
+MAP Miss,0,0,1,0,0
+Neutrophils,1,1,0,1,0
+Neutrophils Miss,0,0,1,0,0
+Norepinephrine,1,0,0,1,1
+PACO2,1,1,0,1,0
+PACO2 Miss,0,0,1,0,0
+PAO2,1,1,0,1,0
+PAO2 Miss,0,0,1,0,0
+pH,1,1,0,1,0
+pH Miss,0,0,1,0,0
+Platelets,1,1,0,1,0
+Platelets Miss,0,0,1,0,0
+Potassium,1,1,0,1,0
+Potassium Miss,0,0,1,0,0
+PTT,1,1,0,1,0
+PTT Miss,0,0,1,0,0
+Radiation,0,0,0,1,0
+Renal failure,0,0,0,1,0
+Respiratory failure,0,0,0,1,0
+Respiratory rate,1,1,0,1,1
+Respiratory rate Miss,0,0,1,0,1
+SBP,1,1,0,1,0
+SBP Miss,0,0,1,0,0
+SIRS,0,0,0,1,1
+Sodium,1,1,0,1,0
+Sodium Miss,0,0,1,0,0
+SPO2,1,1,0,1,0
+SPO2 Miss,0,0,1,0,0
+Temperature,1,1,0,1,0
+Temperature Miss,0,0,1,0,0
+Urine output,1,1,0,1,1
+Urine output Miss,0,0,1,0,1
+Ventilation,0,0,0,1,1
+WBC,1,1,0,1,0
+WBC Miss,0,0,1,0,0
+Weight,1,1,0,1,0
+Weight Miss,0,0,1,0,0
