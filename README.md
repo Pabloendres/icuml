@@ -6,13 +6,13 @@ This repository is intented as a replication tool of our work, including instala
 
 If you have difficulties to install or analyse data, please create an issue.
 
-Also, the repository was written originally in Spanish and later translated into English. There may be files that have been omitted from the translation, so we ask you to raise an issue if you find untranslated files to fix it ASAP.
+Also, the repository was written originally in Spanish and later translated into English. There may be files that have been omitted from the translation, so we ask you to create an issue if you find untranslated files to fix it ASAP.
 
 # Instalation steps
 
 1. Navigate to /eicu/1-instalation.ipynb and follow the instructions to install the eICU-CRD database. Other notebooks in the folder are not required for the instalation.
 2. Navigate to /mimic/1-instalation.ipynb and follow the instructions to install the MIMIC-III database. Other notebooks in the folder are not required for the instalation.
-3. Navigate to /anaylysis/ and run the notebooks inside.
+3. Navigate to /analysis and run the notebooks inside.
 
 # Directory tree
 
