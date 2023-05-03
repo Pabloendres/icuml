@@ -1,6 +1,6 @@
 # Development of an Interpretable Machine Learning Model for Clinical Decision Support on Mortality Prediction of People Admitted to Intensive Care Units
 
-{cite}
+Authors: Pablo A. Rojas-Salinas, Ernesto Frodden, Matías Jaureguiberry-Bravo, and Álvaro M. González Ibáñez.
 
 This repository is intented as a replication tool of our work, including instalation of data sources, cohort construction, and analysis process.
 
